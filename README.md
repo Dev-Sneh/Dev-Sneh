@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dev-sneh.engineer)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&width=750&height=230&lines=Yo%F0%9F%91%8B%2C+I+am+Sneh+Agrawal+Passionate+about+Web-Developer+and+Software+Development;Industry)]
 <h1 align="center">Hi 👋, I'm Sneh Agrawal</h1>
 <h3 align="center">A Passionate Software & Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
