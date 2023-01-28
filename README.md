@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sneh Agrawal</h1>
 <h3 align="center">A Passionate Software & Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj305173" alt="raj305173" /></a> </p>
-
 - 🔭 I’m currently working on [Zomato Clone Web-Application](https://github.com/Raj305173/Zomato-Clone)
 
 - 🌱 I’m currently learning **Android App Developer**
