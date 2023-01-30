@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-sneh.engineer](https://dev-sneh.engineer)
 
-- 💬 Ask me about **Android,MEARN,Software,Web-Application**
+- 💬 Ask me about **Android,MERN,Software,Web-Application**
 
 - 📫 How to reach me **Snehagrawal343@gmail.com**
 
