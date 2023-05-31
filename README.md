@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android,MERN,Software,Web-Application**
 
-- 📫 How to reach me **Snehagrawal343@gmail.com**
+- 📫 How to reach me **Krishagrawal343@gmail.com**
 
 - ⚡ Aim **To become a Professional Software developer**
 
