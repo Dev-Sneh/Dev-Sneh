@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android App Developer**
 
-- 👨‍💻 All of my projects are available at [https://dev-sneh.engineer](https://dev-sneh.engineer)
+- 👨‍💻 All of my projects are available at [https://devsneh.engineer](https://devsneh.engineer)
 
 - 💬 Ask me about **Android,MERN,Software,Web-Application**
 
